@@ -4,7 +4,8 @@
   <img src="https://user-images.githubusercontent.com/your-image-path.gif" alt="coding-animation" width="500"/>
 </p>
 
-<h3 align="center">I'm Christofer, a Full-Stack Developer Student from Sweden</h3>
+<h3 align="center">Christofer Carlsson</h3>
+<h4 align="center">Full-Stack Developer Student from Sweden</h3>
 
 ---
 
@@ -36,26 +37,17 @@
 
 ### 🧰 Skills & Technologies
 
-- **Frontend**: HTML, CSS, JavaScript, TypeScript, React, Next.js
-- **Backend**: C#, Node.js, PHP, .NET (learning)
+- **Frontend**: HTML, CSS, JavaScript, TypeScript, React, React Native, Next.js
+- **Backend**: C#, Node.js, PHP, .NET
 - **DevOps**: Docker
-- **Learning Interests**: AI, Machine Learning, System Design
+- **Learning Interests**: Design, Websites, Machine Learning, System Design
 
 ---
 
 ### 📫 Contact Me
 
-- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/your-link)
-- **Email**: [christofer@example.com](mailto:christofer@example.com)
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Christofer's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/christofer-carlsson65a2b913b)
+- **Email**: [christofer@example.com](mailto:christofer.carlsson94@gmail.com)
 
 ---
 
