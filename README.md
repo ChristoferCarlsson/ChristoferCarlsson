@@ -52,7 +52,7 @@
 ### 📫 Contact Me
 
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/christofer-carlsson65a2b913b)
-- **Email**: [christofer@example.com](mailto:christofer.carlsson94@gmail.com)
+- **Email**: [Email me](mailto:christofer.carlsson94@gmail.com)
 
 ---
 
