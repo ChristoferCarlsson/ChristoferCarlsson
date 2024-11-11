@@ -1,11 +1,8 @@
 <h1 align="center">Hello Wor... I mean, Welcome! 🌍</h1>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-image-path.gif" alt="coding-animation" width="500"/>
-</p>
-
 <h3 align="center">Christofer Carlsson</h3>
 <h4 align="center">Full-Stack Developer Student from Sweden</h3>
+<br>
 
 ---
 
@@ -14,7 +11,7 @@
 - 👨‍💻 **Frontend Developer** with 4 years of experience, now diving into the world of backend development.
 - 📚 Currently mastering **C# and .NET** and exploring the fascinating field of **AI**.
 - 🎯 **Goal**: To become a fully-fledged **Full-Stack Developer**.
-- 🎲 **Fun Fact**: I love spending my free time learning new programming languages and techniques!
+- 🎲 **Fun Fact**: I love spending my free time learning new programming languages and techniques through online courses and reading docs.!
 
 ---
 
@@ -44,6 +41,14 @@
 
 ---
 
+### 📜 Certifications & Courses
+
+- **Front-end Developer** - I studied for two years to become a Front-end developer.
+- **React Native** - Online course covering creating applications for IOS and Android.
+- **C# for Beginners to Advanced** - Online course covering OOP, LINQ, and advanced C# concepts.
+
+---
+
 ### 📫 Contact Me
 
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/christofer-carlsson65a2b913b)
@@ -56,4 +61,3 @@
 > "Growth is the result of forcing yourself beyond limits." – Unknown
 
 ---
-
